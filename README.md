@@ -20,9 +20,5 @@ Companies use IP whitelisting to:
 ## 🚀 My Key Learnings  
 - AWS IAM policy syntax  
 - Testing security controls like a pro  
-- Documenting technical work  
-
-## 👀 Screenshots  
-| Allowed Access | Blocked Access |  
-|----------------|----------------|  
-| ![Allowed](allowed.png) | ![Denied](denied.png) |  
+- Documenting technical work
+    
